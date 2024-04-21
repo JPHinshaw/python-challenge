@@ -1,0 +1,7 @@
+Revenue Data Analysis 
+---------------------- 
+	Total Months = 85 
+	Total Revenue = $22,564,198.00 
+	Average Changes Per Month = $-8,311.11 
+	Greaest Increase In Profits =Aug-16 Amount $1,862,002.00 
+	Greaest Decrease In Profits =Feb-14 Amount $-1,825,558.00 
